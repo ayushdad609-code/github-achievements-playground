@@ -1,5 +1,5 @@
 # Achievements
 - [x] Quickdraw
-- [ ] Pull Shark
-- [ ] YOLO
+- [x] Pull Shark
+- [x] YOLO
 - [ ] Pair Extraordinaire
